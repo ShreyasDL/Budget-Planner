@@ -1,0 +1,43 @@
+    a{
+        text-decoration: none;
+    }
+    p{
+        width:140px;
+        height:20px;
+        padding:10px;
+        text-align:center;
+        border-radius: 5px;
+        box-sizing:content-box;
+        font-size: 20px;
+        margin:0 auto;
+    }
+body{
+        background-image: url("adding2.jpg");
+    }
+h3{
+color:black;
+text-align:center;
+font-family:sans-serif,"Times New Roman";
+}
+    .ide{
+        color: white;
+    }
+.id {
+padding:40px;
+width:40%;
+height:70%;
+letter-spacing:1px;
+
+margin:10px;
+border-right:10px;
+}
+.id .ide input[type="text"]{
+padding:5px;
+
+}
+.id input[type="submit"]{
+border:none;
+outline:none;
+padding: 10px 20px;
+border-radius:5px;
+}
